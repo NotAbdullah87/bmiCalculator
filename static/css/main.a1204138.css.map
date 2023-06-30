@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a1204138.css","mappings":"AAAA,KACE,wBAAyB,CACzB,mBACF,CCHA,4BACI,aACJ","sources":["App.css","components/main/main.css"],"sourcesContent":["body{\n  background-color: #0a0d22;\n  font-family: 'poppins';\n}",".css-eg0mwd-MuiSlider-thumb{\r\n    color: rgb(221, 70, 70);\r\n}"],"names":[],"sourceRoot":""}
